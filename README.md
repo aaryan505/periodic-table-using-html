@@ -9,13 +9,13 @@ Semantic HTML elements for better accessibility and readability.
 # Installation
 # 1)Clone the repository to your local machine:
 bash
-git clone https://github.com/yourusername/periodic-table.git
+git clone https://github.com/aaryan505/periodic-table-using-html/tree/main
 # 2)Navigate to the project directory:
 bash
 cd periodic-table
 # 3)Open the index.html file in your preferred web browser:
 bash
-open index.html
+open periodic table.html
 # Usage
 Open the index.html file in any web browser to view the periodic table.
 The table is interactive, with different colors representing different groups of elements.
